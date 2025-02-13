@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/LeonPena57/EXAMDISH",
+  "homepage": "https://github.com/LeonPena57/EXAMDish",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
